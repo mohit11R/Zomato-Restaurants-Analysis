@@ -13,9 +13,8 @@
 
 ## Overview
 
-This Analysis is on the Crypto-Currency dataset from 2013 to 2021.
-
-This Analysis is based on year, market cap, high, low, open, close values and also predicting the values for the upcoming year.
+* This Analysis is of Zomato Bengaluru City Restaurants Analysis.
+* Analysing data on rating , price, votes, no.of Restaurants.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -60,6 +59,9 @@ Zomato-Restaurant
 
 ## Report Insight
 
+* The Overall Rating of Restaurant is 3.9 with 744 votes.
+* Avg Cost for 2 people is Approx 955 Rupees.
+* No. of People are visitng Restaurants for drinks & night life, Buffets etc.
 
   
   
