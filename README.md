@@ -44,8 +44,6 @@ Zomato-Restaurant
     ├── EDA_Process
     |      ├── zomato_restaurants_data.py
     |
-    |
-    ├── Dashboard
     ├── Dashboard_img.png
     
 ```
@@ -54,7 +52,7 @@ Zomato-Restaurant
 
 ## Dashboard
 
-
+![alt-image](https://github.com/mohit11R/Zomato-Restaurants-Analysis/blob/main/Zomato-Restaurants/Dashboard_img.png?raw=true)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Report Insight
